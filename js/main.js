@@ -15,6 +15,7 @@
     alert('Noter un nombre !!!');
     return;
   }
+
   const fahrenheit = (nombre * 9 / 5) + 32;
   alert(nombre + '°C' + ' = ' + fahrenheit + '°F');
   console.log(a);
